@@ -68,6 +68,7 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ cd nodejs-template-typescript
 $ npm install
+$ npm run build
 $ npm start
 ```
 
